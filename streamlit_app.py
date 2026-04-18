@@ -104,19 +104,15 @@ if page == "Salary Predictor":
         job_title  = st.selectbox("Job Title",         sorted(le_title.classes_))
         location   = st.selectbox("Location",           sorted(le_loc.classes_))
         experience = st.selectbox("Experience Level",   ['Entry', 'Mid', 'Senior', 'Lead'])
-        st.markdown("**Skills** *(select all that apply)*")
-        all_skill_options = top_skills + ['Spark','Hadoop','R','Scala','Excel','Airflow','MongoDB']
-        # purana code delete karein aur ye paste karein:
-        st.markdown("**Skills** *(select all that apply)*")
-        
-        # Ye list aapke model ke 'top_skills' aur extra common skills ko combine karegi
+        st.write("---")
+        # Ek hi bar skills list define karein
         available_skills = sorted(list(set(top_skills + ['Spark', 'Hadoop', 'R', 'Scala', 'Excel', 'Airflow', 'MongoDB', 'Tableau', 'PowerBI', 'Cloud'])))
         
         selected_skills = st.multiselect(
-            "Skills",
+            "Select Technical Skills",
             options=available_skills,
-            default=[available_skills[0], available_skills[1]] if len(available_skills) > 1 else None,
-            label_visibility="collapsed"
+            default=["Python"] if "Python" in available_skills else None,
+            help="Prediction accuracy depends on the skills you select."
         )
         st.markdown("")
         predict_btn = st.button("Predict Salary Tier", type="primary", use_container_width=True)
