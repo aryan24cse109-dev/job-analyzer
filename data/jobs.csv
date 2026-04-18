@@ -1,0 +1,501 @@
+job_title,company,location,experience_level,skills,num_skills,salary_lpa,remote,salary_tier
+Research Scientist,PhonePe,Noida,Mid,"Flask, GCP, MongoDB, MLflow, Kubernetes",5,21,0,Mid
+Business Analyst,Swiggy,Delhi,Entry,"Flask, Docker, Git, Scala, Kubernetes",5,6,0,Low
+Data Analyst,BYJU'S,Mumbai,Lead,"Deep Learning, SQL, TensorFlow",3,49,0,High
+Data Scientist,Paytm,Remote,Mid,"AWS, Kubernetes, PostgreSQL, Deep Learning",4,21,1,Mid
+AI Engineer,Flipkart,Bangalore,Entry,"Scala, Machine Learning, Computer Vision, Git, Spark, Kubernetes, Python, Statistics",8,18,0,Mid
+Data Engineer,Microsoft,Gurgaon,Mid,"dbt, PyTorch, Deep Learning",3,29,0,High
+Data Scientist,Microsoft,Bangalore,Mid,"AWS, Docker, Java, R, NLP, Computer Vision",6,27,0,High
+NLP Engineer,Flipkart,Remote,Entry,"Git, Azure, FastAPI, Deep Learning",4,7,1,Low
+Data Engineer,Zomato,Bangalore,Lead,"PyTorch, Hadoop, Airflow, Azure, Scala, AWS, Tableau, Java",8,59,0,High
+Business Analyst,TCS,Chennai,Mid,"Git, NLP, Hadoop, AWS, Excel",5,10,0,Low
+AI Engineer,Microsoft,Bangalore,Mid,"AWS, PostgreSQL, dbt, MLflow",4,26,0,High
+Data Engineer,Zomato,Bangalore,Senior,"Machine Learning, GCP, FastAPI, Java, Spark",5,39,0,High
+NLP Engineer,PhonePe,Hyderabad,Senior,"Hadoop, MongoDB, Deep Learning, Machine Learning",4,43,0,High
+ML Engineer,TCS,Pune,Mid,"dbt, Spark, Statistics, AWS, Machine Learning, Computer Vision, FastAPI, Java",8,25,0,Mid
+Data Engineer,Wipro,Noida,Senior,"Azure, PostgreSQL, PyTorch, Deep Learning, Spark, Docker",6,21,0,Mid
+Business Analyst,Microsoft,Mumbai,Senior,"Flask, GCP, PyTorch, PostgreSQL",4,35,0,High
+Business Analyst,Paytm,Hyderabad,Lead,"AWS, Java, SQL, PyTorch, Computer Vision",5,56,0,High
+AI Engineer,Microsoft,Pune,Entry,"Scala, Excel, Airflow, Java, Deep Learning",5,22,0,Mid
+Data Engineer,TCS,Hyderabad,Lead,"Azure, Kubernetes, FastAPI, Deep Learning, SQL, TensorFlow, PyTorch",7,67,0,High
+AI Engineer,TCS,Pune,Mid,"Airflow, Java, FastAPI, Flask, SQL, Git",6,20,0,Mid
+Data Analyst,Paytm,Pune,Mid,"Deep Learning, Excel, Flask, Power BI, Airflow, FastAPI, MongoDB, dbt",8,13,0,Mid
+Data Analyst,TCS,Gurgaon,Mid,"Computer Vision, Deep Learning, Git",3,15,0,Mid
+NLP Engineer,Swiggy,Mumbai,Senior,"Airflow, dbt, Hadoop, Scala",4,31,0,High
+ML Engineer,Flipkart,Mumbai,Mid,"Azure, Scala, Python, Docker, Airflow, Java",6,21,0,Mid
+ML Engineer,PhonePe,Mumbai,Senior,"PostgreSQL, Deep Learning, dbt, FastAPI, Machine Learning, Computer Vision, NLP",7,43,0,High
+Data Scientist,Google,Noida,Mid,"Computer Vision, Kubernetes, Flask, Deep Learning, TensorFlow, Python",6,25,0,Mid
+AI Engineer,BYJU'S,Chennai,Mid,"Tableau, dbt, GCP, Docker, Airflow, NLP, R",7,22,0,Mid
+Data Scientist,Infosys,Bangalore,Mid,"GCP, Java, NLP, MongoDB, MLflow, Excel, Scala, Hadoop",8,23,0,Mid
+ML Engineer,TCS,Pune,Mid,"MLflow, Docker, dbt, Spark, Flask",5,25,0,Mid
+Research Scientist,Google,Gurgaon,Mid,"Scala, Hadoop, NLP, Docker, MongoDB, AWS, Deep Learning, Airflow",8,37,0,High
+Business Analyst,Paytm,Hyderabad,Entry,"Git, Airflow, Deep Learning",3,5,0,Low
+Data Engineer,Flipkart,Bangalore,Senior,"Machine Learning, NLP, Java, Kubernetes, Azure, Tableau",6,31,0,High
+ML Engineer,Flipkart,Hyderabad,Senior,"NLP, MLflow, Machine Learning, Docker, Statistics, Excel, R",7,35,0,High
+ML Engineer,Paytm,Noida,Entry,"Tableau, PyTorch, Scala",3,14,0,Mid
+Data Analyst,Ola,Mumbai,Mid,"Computer Vision, SQL, AWS, Machine Learning, Git",5,10,0,Low
+AI Engineer,Ola,Delhi,Entry,"Git, TensorFlow, dbt",3,17,0,Mid
+AI Engineer,Wipro,Mumbai,Senior,"Hadoop, Scala, NLP",3,31,0,High
+Research Scientist,PhonePe,Delhi,Senior,"NLP, Computer Vision, R, FastAPI, dbt, AWS, Flask",7,50,0,High
+Data Analyst,Google,Delhi,Entry,"Computer Vision, MongoDB, Machine Learning, Java",4,18,0,Mid
+Research Scientist,Meesho,Gurgaon,Entry,"Spark, Excel, Azure, PyTorch",4,20,0,Mid
+Research Scientist,Google,Noida,Lead,"Docker, PyTorch, GCP, Deep Learning, TensorFlow",5,70,0,High
+Data Engineer,Infosys,Delhi,Entry,"Deep Learning, GCP, FastAPI, Machine Learning, Python",5,12,0,Mid
+AI Engineer,Wipro,Pune,Mid,"Azure, Git, Docker, PyTorch",4,24,0,Mid
+Data Scientist,Wipro,Mumbai,Senior,"Java, Computer Vision, Tableau, SQL",4,24,0,Mid
+Business Analyst,Paytm,Pune,Mid,"R, Python, dbt, Hadoop, Java, Docker, Machine Learning, MongoDB",8,10,0,Low
+Business Analyst,Paytm,Mumbai,Senior,"Statistics, NLP, PostgreSQL, Deep Learning",4,24,0,Mid
+Data Scientist,Microsoft,Noida,Entry,"PostgreSQL, NLP, Statistics, Deep Learning, Docker, FastAPI, Python",7,18,0,Mid
+ML Engineer,Zomato,Noida,Lead,"Kubernetes, dbt, Flask, Excel, Statistics, SQL, GCP",7,73,0,High
+AI Engineer,Flipkart,Mumbai,Senior,"Python, Scala, Statistics, Git, Tableau, Azure, Excel",7,29,0,High
+Business Analyst,BYJU'S,Bangalore,Senior,"Spark, Computer Vision, Excel, PostgreSQL, Docker",5,20,0,Mid
+Research Scientist,Amazon,Hyderabad,Mid,"Excel, Tableau, NLP, GCP, MLflow",5,29,0,High
+Research Scientist,Meesho,Noida,Senior,"FastAPI, Computer Vision, Tableau, R, Python, Flask",6,40,0,High
+Data Analyst,Ola,Chennai,Senior,"Deep Learning, Machine Learning, FastAPI",3,30,0,High
+Business Analyst,BYJU'S,Remote,Mid,"Airflow, Python, Git, TensorFlow",4,16,1,Mid
+Data Scientist,TCS,Mumbai,Senior,"Git, Docker, Airflow, Scala, Python, NLP, Excel",7,35,0,High
+Data Analyst,Flipkart,Noida,Lead,"AWS, dbt, Python, Docker, Computer Vision, Power BI",6,39,0,High
+Data Analyst,Flipkart,Noida,Entry,"Scala, Hadoop, Docker, Computer Vision, Deep Learning, Java",6,8,0,Low
+ML Engineer,TCS,Delhi,Mid,"PostgreSQL, NLP, Statistics, Machine Learning",4,29,0,High
+Data Scientist,Microsoft,Remote,Entry,"MongoDB, Machine Learning, AWS, Spark, dbt, PostgreSQL, MLflow",7,22,1,Mid
+NLP Engineer,Infosys,Mumbai,Senior,"FastAPI, PyTorch, NLP, Java, Git, Machine Learning, AWS, GCP",8,27,0,High
+Data Engineer,Amazon,Mumbai,Entry,"Power BI, Kubernetes, Hadoop",3,17,0,Mid
+AI Engineer,Microsoft,Pune,Mid,"MLflow, Python, AWS",3,30,0,High
+Business Analyst,Swiggy,Mumbai,Senior,"PyTorch, Hadoop, Python, Scala, NLP, Power BI, Kubernetes",7,30,0,High
+Data Scientist,Meesho,Remote,Mid,"Machine Learning, Docker, Flask",3,24,1,Mid
+NLP Engineer,BYJU'S,Bangalore,Lead,"Spark, AWS, Tableau, Computer Vision, Excel, Kubernetes",6,71,0,High
+Research Scientist,Razorpay,Gurgaon,Mid,"dbt, PostgreSQL, MLflow, SQL, Power BI",5,36,0,High
+Data Scientist,Swiggy,Mumbai,Entry,"Hadoop, Spark, GCP, Azure, Docker",5,12,0,Mid
+AI Engineer,Swiggy,Bangalore,Mid,"Spark, Machine Learning, Kubernetes, PostgreSQL, GCP",5,27,0,High
+Data Scientist,Google,Gurgaon,Mid,"AWS, Spark, Scala, PostgreSQL, Docker, MongoDB, NLP, Flask",8,27,0,High
+Data Analyst,Amazon,Delhi,Entry,"Git, Kubernetes, R, Azure",4,21,0,Mid
+Data Analyst,PhonePe,Chennai,Mid,"AWS, Airflow, Computer Vision, PyTorch, Java",5,12,0,Mid
+Business Analyst,Amazon,Remote,Senior,"Git, R, Deep Learning, Tableau, Spark, AWS, MLflow, Statistics",8,31,1,High
+ML Engineer,Swiggy,Bangalore,Mid,"Java, dbt, Kubernetes, NLP, Tableau, MLflow, TensorFlow",7,23,0,Mid
+Research Scientist,Amazon,Remote,Lead,"MongoDB, PyTorch, SQL, GCP, Deep Learning, FastAPI, Java, Hadoop",8,58,1,High
+ML Engineer,Meesho,Hyderabad,Mid,"MongoDB, Java, Power BI, AWS, Git, NLP",6,17,0,Mid
+Data Analyst,Flipkart,Pune,Lead,"PostgreSQL, NLP, Git, Scala",4,46,0,High
+Business Analyst,Wipro,Remote,Senior,"Hadoop, PyTorch, dbt",3,35,1,High
+AI Engineer,Microsoft,Chennai,Mid,"R, Flask, Excel, Tableau, Git, AWS, PyTorch, GCP",8,32,0,High
+Data Engineer,TCS,Hyderabad,Senior,"PostgreSQL, Python, dbt, NLP",4,30,0,High
+Business Analyst,Swiggy,Hyderabad,Entry,"Tableau, Python, R, Power BI, Spark, Excel",6,4,0,Low
+Data Scientist,Meesho,Mumbai,Senior,"Airflow, Computer Vision, Machine Learning, R, SQL",5,40,0,High
+Business Analyst,PhonePe,Chennai,Senior,"dbt, Spark, Azure, Airflow, Tableau",5,21,0,Mid
+Data Scientist,Zomato,Hyderabad,Entry,"MLflow, R, Tableau, Statistics, TensorFlow, Python, PostgreSQL",7,8,0,Low
+Business Analyst,Zomato,Mumbai,Senior,"Excel, Scala, Tableau, Git, Computer Vision, Azure, PyTorch",7,29,0,High
+Data Analyst,Wipro,Gurgaon,Senior,"Spark, FastAPI, dbt, R",4,37,0,High
+NLP Engineer,Infosys,Remote,Mid,"NLP, TensorFlow, Docker, Tableau, Hadoop, FastAPI",6,17,1,Mid
+ML Engineer,Swiggy,Noida,Senior,"Tableau, Scala, MongoDB, Excel, Python, R",6,35,0,High
+Research Scientist,Flipkart,Pune,Entry,"Kubernetes, FastAPI, Git",3,17,0,Mid
+ML Engineer,Flipkart,Gurgaon,Mid,"Java, NLP, PyTorch, FastAPI, GCP, AWS, Airflow, Scala",8,22,0,Mid
+NLP Engineer,Google,Chennai,Mid,"Hadoop, GCP, Kubernetes, Airflow, TensorFlow",5,28,0,High
+Data Engineer,Swiggy,Hyderabad,Mid,"Power BI, TensorFlow, NLP, Docker, PostgreSQL",5,10,0,Low
+ML Engineer,Swiggy,Gurgaon,Senior,"Hadoop, SQL, NLP, AWS, Excel, Java, Power BI, Airflow",8,49,0,High
+Data Analyst,PhonePe,Gurgaon,Senior,"PyTorch, NLP, Hadoop, MLflow, Airflow, Computer Vision, SQL",7,34,0,High
+Data Engineer,Microsoft,Gurgaon,Mid,"MongoDB, Statistics, TensorFlow, GCP, Hadoop, Airflow, FastAPI",7,33,0,High
+Data Analyst,Microsoft,Noida,Mid,"Statistics, Power BI, Spark",3,25,0,Mid
+NLP Engineer,Google,Pune,Mid,"Kubernetes, MLflow, SQL, PyTorch, Docker, Hadoop, Deep Learning",7,29,0,High
+Research Scientist,Paytm,Noida,Lead,"dbt, Java, Tableau",3,71,0,High
+Business Analyst,Paytm,Gurgaon,Senior,"Git, Deep Learning, Statistics, MongoDB, MLflow",5,28,0,High
+Data Engineer,PhonePe,Delhi,Senior,"AWS, GCP, PyTorch, MLflow, Excel, Hadoop, Kubernetes, Scala",8,35,0,High
+Data Engineer,Ola,Delhi,Senior,"R, Java, GCP, Spark, NLP, Excel, Hadoop, Azure",8,39,0,High
+Business Analyst,Razorpay,Pune,Mid,"Tableau, MongoDB, GCP, NLP",4,27,0,High
+NLP Engineer,BYJU'S,Delhi,Mid,"Kubernetes, FastAPI, Hadoop, Spark, TensorFlow, Scala, Statistics, GCP",8,20,0,Mid
+Data Scientist,Flipkart,Pune,Entry,"R, Docker, MLflow, Scala, Statistics",5,12,0,Mid
+AI Engineer,Microsoft,Gurgaon,Mid,"SQL, TensorFlow, FastAPI, Tableau, Hadoop",5,26,0,High
+AI Engineer,Amazon,Remote,Senior,"FastAPI, MLflow, AWS, PostgreSQL, PyTorch, Flask, Tableau, TensorFlow",8,44,1,High
+AI Engineer,Flipkart,Bangalore,Senior,"Hadoop, Azure, TensorFlow",3,30,0,High
+AI Engineer,Wipro,Mumbai,Mid,"FastAPI, Airflow, Machine Learning, Flask, TensorFlow, GCP, Excel, Tableau",8,18,0,Mid
+Data Engineer,Zomato,Remote,Mid,"GCP, Excel, Deep Learning, Flask, NLP, Hadoop, Scala, Machine Learning",8,14,1,Mid
+ML Engineer,TCS,Bangalore,Lead,"PyTorch, Excel, SQL, R, Docker, NLP, Machine Learning",7,54,0,High
+NLP Engineer,Swiggy,Remote,Mid,"PostgreSQL, dbt, Hadoop, R",4,23,1,Mid
+Data Engineer,Microsoft,Mumbai,Lead,"R, GCP, NLP, dbt, Spark, Airflow",6,73,0,High
+Data Scientist,Flipkart,Chennai,Mid,"PostgreSQL, AWS, Statistics, Machine Learning, Airflow",5,22,0,Mid
+Business Analyst,Flipkart,Pune,Mid,"PyTorch, Statistics, R, Docker, PostgreSQL",5,15,0,Mid
+Business Analyst,Google,Gurgaon,Mid,"Machine Learning, dbt, Flask, TensorFlow",4,29,0,High
+Data Engineer,Ola,Gurgaon,Entry,"Spark, Power BI, Deep Learning, NLP",4,12,0,Mid
+Data Scientist,Microsoft,Hyderabad,Senior,"Spark, Docker, Hadoop, Machine Learning",4,46,0,High
+Data Scientist,Zomato,Hyderabad,Mid,"Git, GCP, Statistics, NLP, R, AWS, Azure, Python",8,16,0,Mid
+AI Engineer,Microsoft,Bangalore,Mid,"Tableau, MongoDB, PyTorch, Excel, Computer Vision, Docker, TensorFlow",7,31,0,High
+Data Scientist,Infosys,Hyderabad,Senior,"Tableau, Scala, MongoDB, Kubernetes, Python, PostgreSQL, MLflow",7,33,0,High
+Data Scientist,Meesho,Delhi,Senior,"MLflow, Computer Vision, Flask, Python, FastAPI, Tableau",6,35,0,High
+AI Engineer,Swiggy,Hyderabad,Entry,"PostgreSQL, Tableau, Kubernetes, MLflow, Power BI, SQL",6,13,0,Mid
+Data Scientist,Ola,Bangalore,Senior,"MongoDB, Machine Learning, Statistics",3,33,0,High
+Data Scientist,PhonePe,Gurgaon,Entry,"NLP, Spark, dbt, Hadoop, FastAPI, TensorFlow",6,16,0,Mid
+Data Scientist,Google,Bangalore,Senior,"GCP, Airflow, Java, Statistics, Kubernetes, PostgreSQL, Git",7,41,0,High
+Data Engineer,Swiggy,Noida,Senior,"Hadoop, Computer Vision, FastAPI, PostgreSQL, Azure, MLflow",6,20,0,Mid
+Research Scientist,Amazon,Noida,Entry,"Python, Docker, MLflow",3,19,0,Mid
+AI Engineer,Flipkart,Chennai,Senior,"GCP, NLP, TensorFlow, PostgreSQL, Computer Vision, Git",6,35,0,High
+ML Engineer,Ola,Pune,Entry,"dbt, GCP, TensorFlow, Docker",4,15,0,Mid
+Data Engineer,PhonePe,Hyderabad,Lead,"Azure, Java, GCP, PyTorch",4,45,0,High
+Data Analyst,BYJU'S,Remote,Senior,"Azure, Java, FastAPI, Deep Learning, SQL, Power BI",6,37,1,High
+Data Analyst,BYJU'S,Chennai,Mid,"FastAPI, GCP, Power BI, Hadoop",4,18,0,Mid
+AI Engineer,PhonePe,Delhi,Senior,"SQL, Kubernetes, Tableau, PyTorch, Git",5,44,0,High
+Business Analyst,BYJU'S,Pune,Entry,"Power BI, Deep Learning, Machine Learning, Hadoop, R",5,3,0,Low
+Business Analyst,Flipkart,Delhi,Lead,"FastAPI, Deep Learning, PyTorch, Statistics",4,67,0,High
+NLP Engineer,Infosys,Bangalore,Senior,"GCP, SQL, Excel",3,33,0,High
+ML Engineer,TCS,Delhi,Senior,"MLflow, Kubernetes, Flask, TensorFlow, Python",5,38,0,High
+Research Scientist,Meesho,Chennai,Mid,"FastAPI, TensorFlow, Git, NLP, PyTorch",5,23,0,Mid
+Data Analyst,Google,Hyderabad,Senior,"MongoDB, dbt, Scala, SQL, FastAPI",5,32,0,High
+Data Engineer,BYJU'S,Bangalore,Lead,"Java, Power BI, Scala, SQL, Spark, PostgreSQL",6,40,0,High
+Data Engineer,Google,Noida,Mid,"Hadoop, PostgreSQL, Power BI, Excel, Scala, MongoDB, Git",7,26,0,High
+ML Engineer,Meesho,Delhi,Entry,"MLflow, Statistics, Azure",3,18,0,Mid
+ML Engineer,BYJU'S,Mumbai,Senior,"FastAPI, Computer Vision, Azure, AWS, Java, Machine Learning",6,33,0,High
+AI Engineer,Paytm,Gurgaon,Senior,"Scala, Java, SQL",3,38,0,High
+Data Analyst,Google,Pune,Lead,"Deep Learning, SQL, PyTorch, Flask, Machine Learning, Python, Hadoop, Spark",8,45,0,High
+AI Engineer,Paytm,Remote,Senior,"Azure, Python, Machine Learning, Computer Vision, TensorFlow, AWS, Spark, PyTorch",8,35,1,High
+NLP Engineer,Zomato,Noida,Senior,"Docker, Python, MLflow, dbt, Scala, Machine Learning, GCP, Spark",8,36,0,High
+AI Engineer,Wipro,Gurgaon,Entry,"PyTorch, GCP, Tableau, dbt",4,16,0,Mid
+Business Analyst,Swiggy,Delhi,Mid,"Tableau, GCP, SQL, Python, Azure",5,15,0,Mid
+Research Scientist,Amazon,Chennai,Entry,"Tableau, Excel, Scala, Docker, MongoDB, Java, R, Statistics",8,27,0,High
+NLP Engineer,Amazon,Noida,Entry,"Hadoop, Spark, GCP, PyTorch, PostgreSQL, Deep Learning, Machine Learning, Python",8,21,0,Mid
+AI Engineer,Razorpay,Hyderabad,Mid,"PostgreSQL, Hadoop, Deep Learning, TensorFlow, NLP, MLflow",6,22,0,Mid
+NLP Engineer,Infosys,Pune,Senior,"GCP, Azure, MLflow, Hadoop, Git, Statistics, Deep Learning, PostgreSQL",8,31,0,High
+Data Engineer,BYJU'S,Hyderabad,Lead,"AWS, FastAPI, MLflow",3,66,0,High
+NLP Engineer,BYJU'S,Chennai,Entry,"Scala, MLflow, Statistics, Excel, PyTorch, Python",6,8,0,Low
+Data Scientist,Google,Hyderabad,Mid,"Computer Vision, AWS, Git, Hadoop, dbt, Spark, Excel, R",8,26,0,High
+AI Engineer,BYJU'S,Pune,Entry,"Excel, GCP, Machine Learning, Deep Learning, FastAPI, dbt, Kubernetes",7,16,0,Mid
+Data Engineer,Swiggy,Gurgaon,Entry,"NLP, dbt, Deep Learning",3,11,0,Mid
+AI Engineer,PhonePe,Chennai,Entry,"Computer Vision, MLflow, Statistics",3,14,0,Mid
+Data Engineer,Zomato,Noida,Lead,"Java, Tableau, Airflow, Spark",4,53,0,High
+NLP Engineer,Wipro,Delhi,Lead,"Python, Flask, Azure, Kubernetes, Machine Learning, Docker, Excel, Scala",8,58,0,High
+Data Scientist,Meesho,Hyderabad,Entry,"FastAPI, Deep Learning, PostgreSQL",3,8,0,Low
+NLP Engineer,Razorpay,Remote,Mid,"Flask, Git, Computer Vision, Deep Learning",4,32,1,High
+ML Engineer,Microsoft,Bangalore,Lead,"Machine Learning, GCP, Python, TensorFlow, Kubernetes, Excel, Statistics",7,68,0,High
+AI Engineer,Zomato,Bangalore,Entry,"Computer Vision, SQL, Python, PyTorch, Spark, Flask, R",7,18,0,Mid
+Data Analyst,Amazon,Chennai,Mid,"Docker, TensorFlow, GCP, Computer Vision, Power BI, Flask, Hadoop, Python",8,23,0,Mid
+Business Analyst,PhonePe,Hyderabad,Mid,"PyTorch, Git, Kubernetes, Excel",4,11,0,Mid
+AI Engineer,Google,Bangalore,Senior,"FastAPI, Git, TensorFlow",3,48,0,High
+Data Scientist,Google,Noida,Mid,"PyTorch, MongoDB, Machine Learning, Python, PostgreSQL, NLP, Deep Learning, Kubernetes",8,26,0,High
+Business Analyst,Meesho,Mumbai,Senior,"Machine Learning, Kubernetes, Python, FastAPI, Spark, Flask, R",7,30,0,High
+Data Engineer,Amazon,Hyderabad,Senior,"Airflow, Hadoop, Machine Learning, Tableau, MongoDB, SQL, FastAPI",7,35,0,High
+NLP Engineer,Infosys,Bangalore,Senior,"Hadoop, Kubernetes, Git, Azure, PostgreSQL, Airflow",6,28,0,High
+Data Engineer,Google,Delhi,Entry,"Azure, PostgreSQL, Git",3,20,0,Mid
+AI Engineer,PhonePe,Pune,Mid,"GCP, TensorFlow, Python, PostgreSQL, Deep Learning",5,21,0,Mid
+ML Engineer,Zomato,Noida,Entry,"SQL, Docker, Python, FastAPI, Machine Learning, Git, Hadoop, MLflow",8,12,0,Mid
+ML Engineer,Paytm,Chennai,Mid,"Airflow, NLP, PostgreSQL, Power BI",4,23,0,Mid
+Data Analyst,TCS,Remote,Senior,"GCP, Git, Computer Vision",3,35,1,High
+Data Analyst,Ola,Hyderabad,Senior,"AWS, Hadoop, Computer Vision, FastAPI, Python, Excel, dbt, PostgreSQL",8,30,0,High
+Research Scientist,TCS,Chennai,Lead,"MongoDB, Git, Kubernetes, AWS, Scala, Computer Vision, R",7,50,0,High
+Data Engineer,Ola,Hyderabad,Lead,"Deep Learning, Python, Scala",3,55,0,High
+ML Engineer,Microsoft,Delhi,Senior,"Statistics, Flask, Hadoop, Python, SQL, MLflow, dbt",7,46,0,High
+Data Engineer,BYJU'S,Bangalore,Mid,"NLP, PostgreSQL, R",3,20,0,Mid
+Data Analyst,BYJU'S,Delhi,Entry,"GCP, Flask, Python, Deep Learning, Computer Vision, PyTorch, Kubernetes",7,14,0,Mid
+AI Engineer,Wipro,Chennai,Mid,"FastAPI, Airflow, Azure, Spark",4,23,0,Mid
+NLP Engineer,Paytm,Pune,Senior,"Spark, TensorFlow, MLflow, Scala, PyTorch, Kubernetes, Deep Learning, Excel",8,31,0,High
+Research Scientist,PhonePe,Noida,Mid,"Power BI, R, Flask, Deep Learning, dbt, Azure, Hadoop",7,19,0,Mid
+Business Analyst,Flipkart,Bangalore,Mid,"AWS, Java, Deep Learning",3,21,0,Mid
+ML Engineer,Meesho,Remote,Senior,"GCP, FastAPI, Excel, Python, PyTorch, SQL, Hadoop, Power BI",8,33,1,High
+Data Analyst,Zomato,Gurgaon,Lead,"PostgreSQL, Airflow, Python, MongoDB, Kubernetes, Docker, R, Scala",8,38,0,High
+AI Engineer,Flipkart,Mumbai,Entry,"Scala, Power BI, Git, Kubernetes, MongoDB, PostgreSQL, Python",7,11,0,Mid
+NLP Engineer,Zomato,Chennai,Senior,"Tableau, Power BI, Git, TensorFlow, Azure, PostgreSQL",6,42,0,High
+Data Analyst,TCS,Pune,Entry,"Hadoop, Java, Power BI, GCP, TensorFlow",5,9,0,Low
+Data Scientist,Microsoft,Bangalore,Senior,"Airflow, Hadoop, Power BI, Python, AWS",5,51,0,High
+AI Engineer,PhonePe,Gurgaon,Entry,"Statistics, Power BI, Spark, FastAPI, Airflow, Java, Deep Learning, Azure",8,13,0,Mid
+Research Scientist,Flipkart,Pune,Lead,"dbt, Azure, Power BI",3,58,0,High
+AI Engineer,Swiggy,Hyderabad,Entry,"Docker, dbt, Power BI, Scala",4,14,0,Mid
+Data Analyst,Flipkart,Bangalore,Mid,"TensorFlow, dbt, MLflow, SQL",4,14,0,Mid
+Data Engineer,Paytm,Delhi,Senior,"Spark, Excel, MongoDB",3,33,0,High
+Research Scientist,Zomato,Chennai,Entry,"Docker, Scala, PyTorch",3,14,0,Mid
+Data Scientist,Meesho,Chennai,Mid,"Kubernetes, Docker, Machine Learning, GCP, Scala, MongoDB, Hadoop, Computer Vision",8,16,0,Mid
+Research Scientist,Google,Mumbai,Senior,"Docker, PostgreSQL, Excel, R, Git",5,42,0,High
+Data Analyst,Meesho,Mumbai,Mid,"Machine Learning, Statistics, R, NLP, Deep Learning, MongoDB, SQL",7,12,0,Mid
+Research Scientist,Razorpay,Mumbai,Lead,"Tableau, PyTorch, Java, Azure, PostgreSQL, Machine Learning, NLP",7,63,0,High
+Data Engineer,Wipro,Pune,Mid,"Spark, TensorFlow, AWS, R, PyTorch, Deep Learning",6,13,0,Mid
+Data Engineer,PhonePe,Noida,Mid,"Git, TensorFlow, SQL",3,15,0,Mid
+Data Engineer,Swiggy,Bangalore,Senior,"Statistics, TensorFlow, R, PyTorch, Excel, Kubernetes, Scala",7,34,0,High
+Business Analyst,PhonePe,Chennai,Lead,"Spark, Deep Learning, SQL, PostgreSQL, Power BI, Python",6,53,0,High
+NLP Engineer,Paytm,Pune,Mid,"AWS, Tableau, Computer Vision, Statistics, Excel, Flask, TensorFlow",7,19,0,Mid
+Data Engineer,BYJU'S,Bangalore,Entry,"Flask, Python, Machine Learning, Statistics, NLP",5,12,0,Mid
+Data Analyst,TCS,Chennai,Mid,"Machine Learning, AWS, Scala, Docker, Airflow, Azure",6,17,0,Mid
+Data Scientist,BYJU'S,Hyderabad,Mid,"Power BI, Airflow, Spark",3,21,0,Mid
+ML Engineer,BYJU'S,Mumbai,Senior,"Scala, GCP, Azure, dbt, MongoDB, NLP, Java",7,26,0,High
+Research Scientist,TCS,Pune,Lead,"Python, Kubernetes, PyTorch, MongoDB, Machine Learning, Java, GCP",7,53,0,High
+Business Analyst,Flipkart,Bangalore,Entry,"Excel, Machine Learning, PyTorch, SQL",4,8,0,Low
+Research Scientist,Razorpay,Mumbai,Senior,"Excel, Flask, Scala, Statistics",4,39,0,High
+Data Engineer,Wipro,Gurgaon,Entry,"PyTorch, Kubernetes, Airflow, MLflow, NLP, Computer Vision",6,11,0,Mid
+Business Analyst,Wipro,Chennai,Senior,"Java, Statistics, TensorFlow",3,35,0,High
+Data Engineer,Infosys,Remote,Mid,"PyTorch, Power BI, Python, NLP, Computer Vision, R",6,20,1,Mid
+ML Engineer,Amazon,Mumbai,Entry,"Machine Learning, Tableau, Scala, Statistics",4,20,0,Mid
+Data Engineer,Google,Mumbai,Entry,"Flask, AWS, MLflow, Java, Scala, R, Git, Azure",8,16,0,Mid
+AI Engineer,PhonePe,Chennai,Entry,"Tableau, Statistics, TensorFlow, Hadoop, Azure, MLflow",6,14,0,Mid
+Research Scientist,Amazon,Remote,Senior,"PostgreSQL, Flask, Statistics, Kubernetes, Docker, Java",6,40,1,High
+ML Engineer,Google,Hyderabad,Mid,"Tableau, TensorFlow, PostgreSQL, Spark, dbt, Git, R",7,25,0,Mid
+ML Engineer,Infosys,Mumbai,Lead,"dbt, Airflow, Java, Machine Learning, AWS, Statistics, R, FastAPI",8,54,0,High
+Business Analyst,Flipkart,Bangalore,Mid,"Java, PostgreSQL, Deep Learning, Python, Computer Vision",5,15,0,Mid
+Research Scientist,Amazon,Noida,Entry,"NLP, Python, SQL",3,22,0,Mid
+Data Scientist,Google,Delhi,Entry,"Deep Learning, MongoDB, dbt",3,17,0,Mid
+AI Engineer,Zomato,Pune,Mid,"Azure, MongoDB, TensorFlow, Deep Learning, R, Kubernetes",6,24,0,Mid
+Data Engineer,PhonePe,Bangalore,Entry,"Spark, Computer Vision, Kubernetes, Scala, GCP, Deep Learning",6,11,0,Mid
+Research Scientist,Swiggy,Remote,Mid,"R, Python, GCP, Computer Vision, Scala, Tableau",6,24,1,Mid
+ML Engineer,Infosys,Bangalore,Lead,"dbt, Docker, R, Excel, GCP",5,72,0,High
+ML Engineer,Razorpay,Pune,Lead,"Java, Deep Learning, GCP, Flask, Scala, Hadoop, Spark",7,75,0,High
+ML Engineer,Zomato,Noida,Senior,"Machine Learning, dbt, SQL, Kubernetes, MLflow, Tableau, Python, MongoDB",8,27,0,High
+Data Scientist,Paytm,Gurgaon,Senior,"Flask, Git, Azure, Statistics, AWS, Machine Learning, Docker",7,37,0,High
+Data Analyst,Wipro,Mumbai,Senior,"R, Statistics, Git, Deep Learning, FastAPI, SQL, Excel, Power BI",8,22,0,Mid
+AI Engineer,Amazon,Gurgaon,Mid,"Computer Vision, PyTorch, Git, GCP, Scala",5,26,0,High
+Data Analyst,Flipkart,Pune,Lead,"Computer Vision, Flask, Spark, PyTorch, Scala, NLP, SQL",7,67,0,High
+NLP Engineer,Meesho,Remote,Senior,"MLflow, Computer Vision, PyTorch, Excel, Power BI, Azure, Git, PostgreSQL",8,33,1,High
+Data Engineer,Razorpay,Remote,Mid,"Machine Learning, Statistics, Java, MLflow, Docker",5,27,1,High
+AI Engineer,Microsoft,Delhi,Entry,"Azure, NLP, Tableau, Excel, MLflow, MongoDB, Machine Learning, dbt",8,21,0,Mid
+Research Scientist,BYJU'S,Gurgaon,Entry,"Scala, Git, GCP, PyTorch, Kubernetes, Python, FastAPI, Airflow",8,16,0,Mid
+Business Analyst,Microsoft,Remote,Entry,"R, Statistics, Python, Spark",4,14,1,Mid
+Data Analyst,Meesho,Gurgaon,Senior,"AWS, Java, PyTorch, Power BI, Kubernetes, Deep Learning",6,31,0,High
+AI Engineer,Ola,Bangalore,Mid,"Airflow, TensorFlow, MLflow, Machine Learning, MongoDB",5,23,0,Mid
+Business Analyst,TCS,Chennai,Mid,"Python, TensorFlow, Airflow, MLflow, PostgreSQL, FastAPI",6,12,0,Mid
+NLP Engineer,Microsoft,Bangalore,Mid,"Hadoop, Docker, Java",3,27,0,High
+NLP Engineer,Amazon,Delhi,Senior,"MongoDB, Kubernetes, TensorFlow, Azure",4,37,0,High
+Research Scientist,Infosys,Gurgaon,Lead,"PostgreSQL, PyTorch, FastAPI, Docker, Azure",5,58,0,High
+Data Analyst,Paytm,Chennai,Senior,"Airflow, Kubernetes, Spark",3,20,0,Mid
+Research Scientist,Paytm,Remote,Mid,"R, FastAPI, GCP",3,26,1,High
+Data Scientist,BYJU'S,Bangalore,Lead,"Scala, Kubernetes, Hadoop, Azure, Deep Learning, SQL",6,56,0,High
+ML Engineer,Wipro,Bangalore,Senior,"dbt, Hadoop, MLflow, Scala",4,43,0,High
+Research Scientist,Razorpay,Gurgaon,Mid,"SQL, Python, NLP, R, Tableau",5,37,0,High
+Data Scientist,Flipkart,Remote,Senior,"Hadoop, Java, Python, Machine Learning, Docker",5,42,1,High
+Data Engineer,Infosys,Delhi,Entry,"Git, PostgreSQL, FastAPI, Python, PyTorch",5,15,0,Mid
+ML Engineer,TCS,Mumbai,Entry,"Python, Hadoop, Git, Excel, Docker, Scala",6,14,0,Mid
+Data Engineer,Ola,Gurgaon,Entry,"FastAPI, MongoDB, PyTorch, Java, Azure, R, Spark",7,13,0,Mid
+Data Engineer,Razorpay,Remote,Senior,"Python, GCP, Spark, Git, SQL, Scala, Kubernetes, Excel",8,37,1,High
+ML Engineer,Paytm,Mumbai,Mid,"FastAPI, AWS, MongoDB, Tableau, Excel, Scala",6,22,0,Mid
+Data Scientist,PhonePe,Mumbai,Mid,"Docker, PostgreSQL, FastAPI, NLP",4,12,0,Mid
+Data Engineer,Paytm,Mumbai,Mid,"AWS, R, Power BI, Hadoop, Deep Learning, Statistics, Java, Spark",8,15,0,Mid
+Data Scientist,BYJU'S,Pune,Mid,"TensorFlow, SQL, FastAPI, Java",4,19,0,Mid
+NLP Engineer,Google,Noida,Entry,"Flask, Excel, Spark, TensorFlow, Kubernetes, Computer Vision, MongoDB",7,23,0,Mid
+AI Engineer,Paytm,Hyderabad,Mid,"Git, PostgreSQL, Excel",3,24,0,Mid
+AI Engineer,Microsoft,Chennai,Lead,"MLflow, NLP, Scala, Azure, SQL, Deep Learning",6,68,0,High
+AI Engineer,Wipro,Gurgaon,Entry,"Python, PostgreSQL, GCP, Azure, MLflow, AWS",6,13,0,Mid
+Data Analyst,Ola,Mumbai,Mid,"AWS, Java, R, Azure, Spark",5,13,0,Mid
+Data Engineer,BYJU'S,Remote,Lead,"Docker, Statistics, MLflow",3,47,1,High
+AI Engineer,Wipro,Gurgaon,Lead,"Kubernetes, Azure, Scala, PyTorch, Statistics, Excel, GCP, Flask",8,62,0,High
+NLP Engineer,PhonePe,Remote,Senior,"Git, Java, MLflow, dbt, Python, Azure, Hadoop",7,27,1,High
+AI Engineer,Paytm,Gurgaon,Mid,"Power BI, Docker, R, SQL, Computer Vision",5,17,0,Mid
+Data Engineer,Flipkart,Chennai,Entry,"PyTorch, Airflow, Git, MongoDB, SQL, Hadoop, Spark, Flask",8,12,0,Mid
+Business Analyst,Ola,Bangalore,Mid,"FastAPI, Hadoop, Scala, SQL",4,13,0,Mid
+Business Analyst,Zomato,Hyderabad,Entry,"Flask, Tableau, NLP, R, Java",5,5,0,Low
+AI Engineer,PhonePe,Bangalore,Senior,"Statistics, TensorFlow, Python, GCP",4,44,0,High
+Data Engineer,Ola,Mumbai,Mid,"Azure, Machine Learning, MLflow, Spark, Flask, PyTorch, Hadoop",7,20,0,Mid
+ML Engineer,Microsoft,Delhi,Senior,"Flask, TensorFlow, Spark, MLflow, AWS, Deep Learning, PyTorch",7,48,0,High
+Data Scientist,Flipkart,Gurgaon,Senior,"MongoDB, Git, SQL, dbt, R, MLflow",6,45,0,High
+Research Scientist,Amazon,Bangalore,Mid,"Computer Vision, PyTorch, Scala, Java",4,33,0,High
+Data Scientist,Paytm,Chennai,Mid,"Git, Power BI, Excel",3,20,0,Mid
+AI Engineer,BYJU'S,Mumbai,Entry,"Flask, Kubernetes, Excel",3,10,0,Low
+Data Scientist,Amazon,Bangalore,Entry,"Power BI, GCP, NLP, dbt, PostgreSQL, Docker",6,22,0,Mid
+Data Analyst,TCS,Chennai,Senior,"NLP, MLflow, Excel, R, FastAPI, dbt, Kubernetes, Spark",8,36,0,High
+Data Scientist,Meesho,Delhi,Entry,"MLflow, Flask, Power BI, TensorFlow, SQL, Machine Learning, Python",7,12,0,Mid
+Research Scientist,Amazon,Gurgaon,Mid,"Statistics, GCP, Power BI, Scala, Flask, Azure",6,28,0,High
+Research Scientist,Flipkart,Mumbai,Mid,"Docker, SQL, Excel, MongoDB, AWS, PyTorch, NLP, Tableau",8,17,0,Mid
+AI Engineer,Flipkart,Pune,Senior,"GCP, R, Computer Vision, Machine Learning, Flask, dbt",6,46,0,High
+Business Analyst,Google,Mumbai,Lead,"Airflow, TensorFlow, dbt, Git, Hadoop, Computer Vision",6,72,0,High
+Data Engineer,Zomato,Chennai,Mid,"Power BI, Git, Tableau, NLP",4,20,0,Mid
+ML Engineer,Infosys,Bangalore,Entry,"FastAPI, Kubernetes, Computer Vision, R, GCP, Statistics, Hadoop",7,12,0,Mid
+AI Engineer,Google,Hyderabad,Mid,"Kubernetes, PostgreSQL, GCP, R, NLP",5,32,0,High
+Research Scientist,Microsoft,Gurgaon,Senior,"TensorFlow, R, Spark, Hadoop, PyTorch, Deep Learning, dbt, Kubernetes",8,55,0,High
+Data Scientist,Meesho,Hyderabad,Mid,"Java, Machine Learning, Git, Computer Vision",4,11,0,Mid
+Business Analyst,Meesho,Hyderabad,Lead,"Excel, Kubernetes, Python",3,62,0,High
+Data Scientist,Ola,Mumbai,Entry,"R, MLflow, Airflow, GCP",4,7,0,Low
+Research Scientist,Amazon,Chennai,Entry,"Deep Learning, Java, Airflow, Python, NLP",5,25,0,Mid
+Data Engineer,Flipkart,Bangalore,Mid,"Tableau, Scala, PostgreSQL",3,17,0,Mid
+Business Analyst,Wipro,Pune,Lead,"Machine Learning, Power BI, Hadoop, Excel, Flask, GCP",6,63,0,High
+ML Engineer,PhonePe,Bangalore,Mid,"Hadoop, R, FastAPI, Power BI",4,25,0,Mid
+ML Engineer,Flipkart,Bangalore,Lead,"Git, Machine Learning, MongoDB, Computer Vision, dbt, Kubernetes, Airflow",7,70,0,High
+Business Analyst,BYJU'S,Gurgaon,Senior,"R, AWS, Statistics, Airflow, Deep Learning, NLP",6,33,0,High
+Data Engineer,Amazon,Hyderabad,Senior,"PostgreSQL, Scala, MLflow",3,32,0,High
+AI Engineer,Ola,Gurgaon,Entry,"R, SQL, MLflow, Computer Vision, Python, MongoDB, Flask",7,17,0,Mid
+ML Engineer,PhonePe,Bangalore,Entry,"GCP, FastAPI, Excel, Azure, MongoDB, Machine Learning",6,12,0,Mid
+Research Scientist,Zomato,Chennai,Entry,"Deep Learning, R, Computer Vision, Spark, PostgreSQL, Scala, AWS",7,16,0,Mid
+Business Analyst,Ola,Pune,Mid,"MongoDB, GCP, Azure, PyTorch, Spark, PostgreSQL",6,11,0,Mid
+Data Scientist,BYJU'S,Delhi,Mid,"Azure, MongoDB, Docker",3,24,0,Mid
+Data Scientist,TCS,Delhi,Mid,"Hadoop, Deep Learning, SQL",3,23,0,Mid
+Data Scientist,PhonePe,Bangalore,Senior,"Tableau, MLflow, dbt, FastAPI",4,44,0,High
+Data Scientist,Meesho,Noida,Mid,"Flask, Kubernetes, Azure, FastAPI",4,17,0,Mid
+NLP Engineer,Amazon,Noida,Senior,"PyTorch, MLflow, MongoDB, Machine Learning, Flask",5,48,0,High
+Data Analyst,Google,Chennai,Lead,"GCP, Docker, Spark, SQL, Azure, FastAPI, Excel, Power BI",8,68,0,High
+Data Engineer,Razorpay,Noida,Mid,"GCP, NLP, dbt, Machine Learning, TensorFlow, Azure, PyTorch, Git",8,19,0,Mid
+ML Engineer,PhonePe,Chennai,Entry,"SQL, AWS, Excel",3,10,0,Low
+Data Scientist,Zomato,Noida,Lead,"GCP, Kubernetes, Hadoop",3,43,0,High
+Data Scientist,Amazon,Gurgaon,Entry,"Machine Learning, GCP, PostgreSQL, Docker, PyTorch, R, Azure, MongoDB",8,24,0,Mid
+ML Engineer,Amazon,Pune,Senior,"Scala, PyTorch, MLflow, R, Airflow, Spark, Excel",7,44,0,High
+Data Analyst,Meesho,Gurgaon,Senior,"dbt, Statistics, Power BI, SQL, Flask, PyTorch",6,41,0,High
+Research Scientist,Swiggy,Remote,Senior,"TensorFlow, Spark, Airflow, Kubernetes, Power BI, Hadoop, Deep Learning",7,40,1,High
+Research Scientist,BYJU'S,Pune,Senior,"Tableau, Machine Learning, NLP, Kubernetes, Computer Vision, Flask, dbt, PostgreSQL",8,47,0,High
+NLP Engineer,PhonePe,Noida,Mid,"Computer Vision, Spark, Tableau, Git, Power BI, Scala",6,21,0,Mid
+AI Engineer,Razorpay,Delhi,Mid,"Azure, Excel, AWS, SQL, Statistics, MLflow, Docker",7,34,0,High
+Data Analyst,Wipro,Gurgaon,Senior,"Java, Computer Vision, AWS, GCP, Docker, Scala",6,39,0,High
+Data Scientist,Infosys,Delhi,Entry,"Airflow, Python, Scala, Excel, PyTorch, dbt, TensorFlow, Power BI",8,13,0,Mid
+ML Engineer,BYJU'S,Remote,Senior,"GCP, AWS, TensorFlow, MongoDB, Docker, FastAPI, Azure",7,39,1,High
+Data Scientist,Swiggy,Noida,Mid,"Computer Vision, MLflow, Hadoop, Flask, GCP, Excel, Python, SQL",8,17,0,Mid
+Data Scientist,PhonePe,Delhi,Mid,"TensorFlow, SQL, Hadoop, Computer Vision, Statistics, Power BI",6,21,0,Mid
+AI Engineer,Google,Noida,Senior,"Machine Learning, Kubernetes, NLP, SQL, Java, Excel, TensorFlow",7,54,0,High
+Data Analyst,Microsoft,Hyderabad,Senior,"R, Flask, Excel, Computer Vision, PostgreSQL, Spark, Python, AWS",8,33,0,High
+Business Analyst,PhonePe,Pune,Mid,"Airflow, R, Flask, TensorFlow, MongoDB",5,10,0,Low
+NLP Engineer,Wipro,Gurgaon,Lead,"Spark, Docker, R, Python",4,64,0,High
+Data Engineer,Wipro,Noida,Entry,"Spark, AWS, Scala, Deep Learning, Excel, Tableau",6,11,0,Mid
+Data Scientist,Meesho,Gurgaon,Entry,"Kubernetes, Statistics, PostgreSQL, MongoDB, Power BI, Flask",6,15,0,Mid
+Data Scientist,BYJU'S,Chennai,Mid,"NLP, Tableau, Excel, Airflow",4,15,0,Mid
+ML Engineer,Zomato,Gurgaon,Mid,"Airflow, Python, Git, PostgreSQL",4,22,0,Mid
+AI Engineer,PhonePe,Gurgaon,Entry,"Computer Vision, PostgreSQL, Java, Airflow",4,16,0,Mid
+Data Analyst,Zomato,Hyderabad,Entry,"TensorFlow, Statistics, PostgreSQL, Power BI, AWS, Scala",6,6,0,Low
+Data Scientist,Google,Chennai,Senior,"Deep Learning, Machine Learning, Computer Vision, FastAPI, Statistics",5,36,0,High
+Research Scientist,Ola,Noida,Senior,"Spark, PyTorch, Azure, Computer Vision, dbt",5,33,0,High
+Data Analyst,PhonePe,Remote,Senior,"Tableau, Docker, Statistics, Power BI",4,20,1,Mid
+Data Engineer,BYJU'S,Mumbai,Senior,"Machine Learning, Statistics, AWS",3,42,0,High
+Data Scientist,PhonePe,Gurgaon,Entry,"MLflow, Python, Machine Learning, Kubernetes, Git, Java, GCP",7,9,0,Low
+Data Analyst,Paytm,Mumbai,Senior,"Deep Learning, dbt, Flask",3,31,0,High
+Data Scientist,Zomato,Noida,Entry,"FastAPI, MLflow, PostgreSQL, Machine Learning, Kubernetes, Spark, Flask, Scala",8,9,0,Low
+Data Analyst,Google,Pune,Entry,"NLP, Machine Learning, SQL, Python",4,18,0,Mid
+Data Engineer,Razorpay,Bangalore,Mid,"Flask, Java, Docker",3,29,0,High
+Data Scientist,TCS,Hyderabad,Senior,"MLflow, PostgreSQL, Azure, FastAPI, Git, Computer Vision, Spark",7,30,0,High
+NLP Engineer,Microsoft,Gurgaon,Lead,"SQL, Scala, Git, dbt, Kubernetes, PostgreSQL",6,84,0,High
+Data Analyst,Razorpay,Bangalore,Mid,"Deep Learning, GCP, MLflow, SQL",4,26,0,High
+NLP Engineer,PhonePe,Hyderabad,Entry,"Machine Learning, R, SQL, PyTorch, Kubernetes, MongoDB, Docker, Hadoop",8,13,0,Mid
+Data Analyst,Zomato,Hyderabad,Mid,"AWS, Python, Flask",3,12,0,Mid
+Business Analyst,BYJU'S,Remote,Entry,"R, dbt, PyTorch, FastAPI, Excel",5,3,1,Low
+Data Engineer,Swiggy,Remote,Mid,"Python, Kubernetes, Machine Learning, PostgreSQL, SQL, GCP, Computer Vision, PyTorch",8,14,1,Mid
+ML Engineer,Amazon,Pune,Entry,"Git, Flask, Hadoop",3,22,0,Mid
+Data Scientist,TCS,Bangalore,Mid,"Tableau, Docker, MLflow, NLP",4,16,0,Mid
+Data Analyst,Swiggy,Gurgaon,Entry,"FastAPI, Java, NLP, Airflow, MLflow, Power BI, SQL, Flask",8,8,0,Low
+Data Engineer,BYJU'S,Delhi,Senior,"TensorFlow, Python, Excel, Spark, Kubernetes, Tableau, Azure, Flask",8,37,0,High
+NLP Engineer,Swiggy,Delhi,Entry,"PostgreSQL, Java, Airflow, PyTorch, FastAPI",5,13,0,Mid
+Data Engineer,Google,Delhi,Mid,"Java, dbt, Spark, Git, Airflow, Deep Learning, MongoDB, NLP",8,30,0,High
+Data Scientist,Infosys,Noida,Mid,"FastAPI, Excel, PyTorch",3,15,0,Mid
+Data Engineer,Microsoft,Hyderabad,Mid,"Scala, Java, MongoDB",3,24,0,Mid
+Research Scientist,Ola,Remote,Entry,"PostgreSQL, Tableau, MongoDB, Deep Learning, SQL, PyTorch, Python, Kubernetes",8,18,1,Mid
+Data Scientist,Swiggy,Delhi,Mid,"Flask, PyTorch, FastAPI, Java",4,24,0,Mid
+NLP Engineer,TCS,Remote,Entry,"Docker, Flask, Excel, Machine Learning, Azure",5,13,1,Mid
+NLP Engineer,BYJU'S,Pune,Lead,"Docker, Python, AWS",3,63,0,High
+Data Analyst,PhonePe,Bangalore,Lead,"Machine Learning, Kubernetes, AWS",3,60,0,High
+Data Analyst,Ola,Delhi,Entry,"Scala, Deep Learning, MLflow, NLP, MongoDB, Python",6,14,0,Mid
+Business Analyst,Wipro,Hyderabad,Senior,"Tableau, Spark, Docker, Excel, Airflow, Kubernetes, R, Statistics",8,18,0,Mid
+Data Analyst,Infosys,Chennai,Senior,"SQL, NLP, Machine Learning, R, Computer Vision, TensorFlow, dbt, Hadoop",8,36,0,High
+NLP Engineer,Swiggy,Delhi,Senior,"Hadoop, Scala, Git",3,47,0,High
+Business Analyst,Razorpay,Noida,Mid,"Azure, Airflow, Excel, TensorFlow, Docker",5,14,0,Mid
+Data Analyst,TCS,Mumbai,Entry,"dbt, Flask, R, GCP, Scala, FastAPI",6,6,0,Low
+AI Engineer,Wipro,Noida,Senior,"Excel, Git, Deep Learning, Computer Vision, dbt, Hadoop, Airflow, GCP",8,30,0,High
+Data Engineer,Infosys,Delhi,Senior,"Spark, Flask, AWS, Statistics, FastAPI, Power BI, Docker, TensorFlow",8,44,0,High
+AI Engineer,Google,Delhi,Senior,"Spark, Machine Learning, Git, MLflow, Scala",5,53,0,High
+Data Analyst,Amazon,Remote,Mid,"Docker, dbt, AWS, Scala",4,20,1,Mid
+Data Scientist,Amazon,Pune,Senior,"Statistics, Airflow, PyTorch, MLflow, Azure, Spark, SQL, Scala",8,38,0,High
+Data Scientist,BYJU'S,Chennai,Entry,"Kubernetes, Tableau, SQL",3,6,0,Low
+Business Analyst,Microsoft,Delhi,Senior,"Kubernetes, TensorFlow, SQL, Git",4,42,0,High
+Data Scientist,BYJU'S,Gurgaon,Mid,"Java, NLP, PostgreSQL, Spark, Deep Learning, Azure",6,18,0,Mid
+Research Scientist,BYJU'S,Delhi,Senior,"Airflow, AWS, Python, Deep Learning, Power BI",5,50,0,High
+NLP Engineer,Meesho,Bangalore,Mid,"Computer Vision, Azure, FastAPI, Statistics, Machine Learning, NLP",6,23,0,Mid
+Research Scientist,Zomato,Noida,Senior,"Statistics, Azure, Java, Flask",4,31,0,High
+AI Engineer,Razorpay,Mumbai,Senior,"Docker, Power BI, MongoDB, AWS, dbt",5,37,0,High
+Data Engineer,BYJU'S,Pune,Entry,"Python, PostgreSQL, Spark, Machine Learning, AWS",5,7,0,Low
+Research Scientist,Meesho,Hyderabad,Lead,"Power BI, Excel, Azure",3,67,0,High
+AI Engineer,TCS,Bangalore,Entry,"Git, Statistics, FastAPI, Spark, MongoDB, Python, Azure",7,16,0,Mid
+Research Scientist,Amazon,Hyderabad,Lead,"Computer Vision, Machine Learning, FastAPI, Flask, Python, Power BI",6,54,0,High
+NLP Engineer,Meesho,Gurgaon,Mid,"Tableau, SQL, R",3,22,0,Mid
+Data Scientist,Amazon,Gurgaon,Mid,"R, PostgreSQL, Java, Git, FastAPI, SQL",6,33,0,High
+ML Engineer,TCS,Mumbai,Senior,"Java, Scala, Computer Vision",3,41,0,High
+NLP Engineer,Infosys,Chennai,Lead,"Kubernetes, Hadoop, FastAPI, Airflow, PyTorch, Java, PostgreSQL",7,66,0,High
+AI Engineer,TCS,Remote,Entry,"AWS, NLP, PyTorch, FastAPI, Spark, Docker",6,10,1,Low
+AI Engineer,Google,Mumbai,Senior,"MLflow, PostgreSQL, NLP, Excel",4,44,0,High
+Business Analyst,Ola,Noida,Mid,"dbt, Airflow, Machine Learning, Docker, Flask, PyTorch, MLflow",7,17,0,Mid
+AI Engineer,Paytm,Delhi,Mid,"Power BI, PostgreSQL, Flask, MLflow, Python",5,23,0,Mid
+Business Analyst,Infosys,Mumbai,Entry,"AWS, Excel, Airflow, Spark, Statistics, Deep Learning, Tableau",7,3,0,Low
+Business Analyst,Swiggy,Bangalore,Mid,"Kubernetes, Flask, TensorFlow, GCP, Docker",5,18,0,Mid
+Research Scientist,Razorpay,Mumbai,Mid,"Machine Learning, Flask, Excel, Scala, TensorFlow",5,29,0,High
+Data Engineer,Flipkart,Remote,Entry,"dbt, Flask, Spark, MongoDB, Java, Python",6,6,1,Low
+Data Engineer,Infosys,Gurgaon,Mid,"Scala, AWS, Computer Vision",3,26,0,High
+Business Analyst,Flipkart,Pune,Senior,"AWS, PyTorch, FastAPI, Flask",4,24,0,Mid
+Data Engineer,PhonePe,Mumbai,Entry,"Power BI, FastAPI, Computer Vision, PyTorch, Docker, Tableau, dbt, R",8,7,0,Low
+AI Engineer,Swiggy,Remote,Lead,"GCP, Kubernetes, Machine Learning, Tableau",4,65,1,High
+NLP Engineer,Meesho,Delhi,Senior,"Machine Learning, FastAPI, Hadoop, Deep Learning",4,42,0,High
+Business Analyst,Paytm,Remote,Senior,"Azure, Airflow, NLP, Spark, Deep Learning, Scala, Hadoop",7,24,1,Mid
+Research Scientist,Amazon,Noida,Mid,"TensorFlow, Docker, Scala, SQL, Excel, Kubernetes, Java",7,28,0,High
+Data Scientist,PhonePe,Mumbai,Entry,"MongoDB, GCP, PyTorch",3,9,0,Low
+Data Engineer,Flipkart,Noida,Entry,"GCP, Docker, Kubernetes, Airflow, NLP, dbt, PostgreSQL, Computer Vision",8,11,0,Mid
+Research Scientist,Amazon,Pune,Entry,"Statistics, MLflow, FastAPI, dbt, Computer Vision",5,21,0,Mid
+Data Scientist,Razorpay,Bangalore,Lead,"FastAPI, MongoDB, Scala, Flask",4,70,0,High
+NLP Engineer,Infosys,Chennai,Mid,"Statistics, R, FastAPI, Excel",4,18,0,Mid
+AI Engineer,Ola,Noida,Mid,"Azure, Power BI, Kubernetes, Computer Vision, Hadoop",5,25,0,Mid
+NLP Engineer,Flipkart,Chennai,Mid,"FastAPI, Java, Docker, Flask, PostgreSQL",5,17,0,Mid
+NLP Engineer,Flipkart,Remote,Entry,"Tableau, FastAPI, TensorFlow",3,13,1,Mid
+Business Analyst,Meesho,Remote,Mid,"Machine Learning, MongoDB, Scala",3,15,1,Mid
+Business Analyst,Meesho,Noida,Senior,"SQL, Tableau, Hadoop, MongoDB, Spark, R, FastAPI",7,23,0,Mid
+ML Engineer,Ola,Chennai,Senior,"Power BI, MongoDB, TensorFlow",3,42,0,High
+AI Engineer,Paytm,Gurgaon,Senior,"SQL, PostgreSQL, NLP, Power BI, PyTorch, Kubernetes, AWS",7,40,0,High
+NLP Engineer,Amazon,Remote,Mid,"R, Airflow, Power BI, GCP, PyTorch, NLP, Excel, Kubernetes",8,31,1,High
+Data Analyst,Google,Noida,Senior,"dbt, Kubernetes, Flask, Azure",4,35,0,High
+AI Engineer,PhonePe,Bangalore,Senior,"PostgreSQL, SQL, Azure, Git, Docker, Computer Vision, Java, Tableau",8,29,0,High
+Business Analyst,Wipro,Chennai,Entry,"Airflow, Git, Docker, R, Scala, TensorFlow, Computer Vision",7,4,0,Low
+Data Engineer,Meesho,Pune,Mid,"FastAPI, Hadoop, Excel, TensorFlow, Flask, R, Computer Vision, Tableau",8,14,0,Mid
+Data Engineer,Amazon,Bangalore,Mid,"PostgreSQL, Hadoop, Java, Tableau, Git, Kubernetes, Spark, Flask",8,29,0,High
+Data Engineer,Swiggy,Pune,Senior,"Excel, NLP, Java, Scala, Python, MongoDB",6,20,0,Mid
+Data Engineer,BYJU'S,Mumbai,Mid,"Machine Learning, Java, FastAPI",3,12,0,Mid
+ML Engineer,Microsoft,Chennai,Mid,"Azure, Python, PostgreSQL, R, Kubernetes, Power BI",6,29,0,High
+Business Analyst,Amazon,Chennai,Senior,"Computer Vision, Docker, Deep Learning, Java, Machine Learning",5,33,0,High
+AI Engineer,Amazon,Delhi,Mid,"AWS, Statistics, Airflow, PyTorch, Azure",5,26,0,High
+AI Engineer,PhonePe,Mumbai,Senior,"Hadoop, Machine Learning, SQL, MongoDB, Statistics, PyTorch, PostgreSQL, Tableau",8,33,0,High
+Business Analyst,Flipkart,Chennai,Mid,"PostgreSQL, Tableau, Airflow, GCP, Hadoop",5,11,0,Mid
+AI Engineer,TCS,Gurgaon,Lead,"Kubernetes, Git, Docker, AWS, Java, TensorFlow, PostgreSQL, FastAPI",8,64,0,High
+NLP Engineer,Infosys,Hyderabad,Mid,"Excel, Java, Git, FastAPI, MongoDB, Statistics",6,22,0,Mid
+ML Engineer,Swiggy,Chennai,Senior,"Excel, MongoDB, R, dbt",4,45,0,High
+Business Analyst,BYJU'S,Remote,Mid,"Computer Vision, MLflow, Hadoop, Tableau",4,16,1,Mid
+Data Analyst,Amazon,Chennai,Mid,"Java, Deep Learning, Spark, Machine Learning, Docker, PostgreSQL",6,21,0,Mid
+NLP Engineer,Paytm,Chennai,Entry,"Deep Learning, Machine Learning, Java, TensorFlow, AWS",5,12,0,Mid
+Business Analyst,Amazon,Mumbai,Entry,"Azure, PyTorch, Flask, Spark, Hadoop, Tableau, AWS",7,14,0,Mid
+NLP Engineer,Flipkart,Gurgaon,Lead,"MLflow, Excel, PyTorch, R, AWS, Azure, Machine Learning, Flask",8,45,0,High
+Business Analyst,Google,Hyderabad,Entry,"SQL, PostgreSQL, Computer Vision, Deep Learning, MLflow",5,13,0,Mid
+AI Engineer,Google,Bangalore,Senior,"NLP, R, Kubernetes, dbt, Tableau, Python, Computer Vision, GCP",8,39,0,High
+Research Scientist,PhonePe,Chennai,Entry,"AWS, Statistics, MLflow, Git, Spark, Flask, Deep Learning",7,14,0,Mid
+Research Scientist,Wipro,Chennai,Mid,"NLP, Azure, MLflow, GCP, Python, Flask, Git",7,22,0,Mid
+AI Engineer,Zomato,Hyderabad,Mid,"AWS, Hadoop, Git, dbt",4,15,0,Mid
+Data Scientist,Amazon,Gurgaon,Entry,"Python, Spark, Excel, Computer Vision, Git, Tableau, R",7,19,0,Mid
+NLP Engineer,Google,Hyderabad,Senior,"Tableau, Flask, Azure, Java, TensorFlow, GCP, PyTorch, MongoDB",8,36,0,High
+Research Scientist,Ola,Remote,Lead,"AWS, Computer Vision, PyTorch",3,56,1,High
+NLP Engineer,Ola,Noida,Mid,"MLflow, NLP, Git, TensorFlow, Power BI, Python, Computer Vision",7,20,0,Mid
+Data Analyst,Flipkart,Mumbai,Entry,"Machine Learning, Flask, NLP, Spark, PostgreSQL, Python, GCP",7,4,0,Low
+NLP Engineer,Flipkart,Noida,Mid,"Kubernetes, Hadoop, dbt",3,22,0,Mid
+Data Analyst,Ola,Gurgaon,Senior,"Spark, Tableau, Git, Airflow, PyTorch, Computer Vision, FastAPI",7,41,0,High
+Data Scientist,Microsoft,Remote,Mid,"Deep Learning, Machine Learning, Java, Tableau, Azure, Kubernetes",6,31,1,High
+Data Analyst,Google,Hyderabad,Lead,"MLflow, Python, AWS, Computer Vision",4,67,0,High
+Research Scientist,PhonePe,Delhi,Senior,"Git, Python, Statistics, Airflow, Hadoop, Flask, PyTorch",7,43,0,High
+Business Analyst,Meesho,Delhi,Mid,"SQL, dbt, PyTorch, Tableau, GCP",5,13,0,Mid
+Research Scientist,Paytm,Chennai,Lead,"Computer Vision, Statistics, Azure, AWS",4,44,0,High
+ML Engineer,Ola,Pune,Mid,"Spark, SQL, Scala, R, AWS, Flask",6,18,0,Mid
+Data Scientist,Infosys,Hyderabad,Senior,"Statistics, Machine Learning, GCP, Hadoop, R",5,28,0,High
+Business Analyst,Paytm,Noida,Entry,"Spark, TensorFlow, R, Excel, PostgreSQL, MongoDB, Deep Learning, PyTorch",8,7,0,Low
+AI Engineer,Google,Bangalore,Mid,"SQL, Deep Learning, NLP, dbt, Power BI",5,35,0,High
+Research Scientist,Paytm,Bangalore,Lead,"SQL, Python, Java",3,77,0,High
+Business Analyst,Microsoft,Mumbai,Senior,"Hadoop, Machine Learning, TensorFlow, dbt, Deep Learning, Docker, Kubernetes, PyTorch",8,40,0,High
+NLP Engineer,Paytm,Hyderabad,Entry,"Deep Learning, R, PostgreSQL, PyTorch, MongoDB, Power BI",6,8,0,Low
+ML Engineer,Google,Delhi,Senior,"Scala, GCP, dbt",3,49,0,High
+AI Engineer,Ola,Delhi,Lead,"Java, Docker, R, Airflow, MongoDB, Spark",6,52,0,High
+Data Scientist,PhonePe,Delhi,Lead,"GCP, Computer Vision, Azure, Scala",4,53,0,High
+NLP Engineer,Amazon,Noida,Entry,"Power BI, Statistics, Git, R, Java, Flask",6,17,0,Mid
+ML Engineer,TCS,Hyderabad,Mid,"Java, Airflow, Power BI",3,18,0,Mid
+NLP Engineer,Meesho,Delhi,Mid,"Tableau, Docker, MLflow, PyTorch",4,21,0,Mid
+AI Engineer,Zomato,Hyderabad,Lead,"Power BI, Excel, PyTorch, Docker, Python, Airflow, Scala, Computer Vision",8,58,0,High
+Data Analyst,Infosys,Chennai,Mid,"Computer Vision, FastAPI, Statistics, Docker, Java",5,8,0,Low
+AI Engineer,Amazon,Mumbai,Mid,"TensorFlow, MLflow, GCP, Statistics",4,23,0,Mid
+Data Engineer,Flipkart,Bangalore,Entry,"Tableau, Power BI, MongoDB, Excel, Git, Hadoop, Machine Learning",7,8,0,Low
+Research Scientist,Google,Delhi,Senior,"Tableau, AWS, Java, PyTorch, Python, MongoDB, Spark, Docker",8,52,0,High
+Business Analyst,Wipro,Chennai,Entry,"Kubernetes, Azure, Docker, FastAPI, Statistics",5,4,0,Low
+Research Scientist,Amazon,Remote,Entry,"Machine Learning, TensorFlow, FastAPI, GCP, MLflow, Deep Learning",6,21,1,Mid
+ML Engineer,PhonePe,Mumbai,Mid,"Docker, Statistics, TensorFlow, Computer Vision",4,20,0,Mid
+Research Scientist,Amazon,Mumbai,Mid,"Hadoop, Computer Vision, Statistics, Kubernetes, SQL, FastAPI, Tableau, Python",8,33,0,High
+Research Scientist,Amazon,Hyderabad,Mid,"Computer Vision, Java, Spark, dbt",4,31,0,High
+Business Analyst,Wipro,Mumbai,Entry,"Power BI, Machine Learning, Excel, Spark, Hadoop, GCP, Docker",7,7,0,Low
+Data Scientist,TCS,Mumbai,Mid,"Scala, Spark, Statistics",3,17,0,Mid
+AI Engineer,Google,Gurgaon,Mid,"PyTorch, Java, Computer Vision, Azure, dbt, Statistics",6,31,0,High
+NLP Engineer,TCS,Hyderabad,Mid,"Azure, Statistics, MongoDB, Python, Hadoop, MLflow, Git",7,17,0,Mid
+Business Analyst,TCS,Remote,Entry,"Airflow, Docker, R, SQL, dbt, Azure, Power BI, Java",8,3,1,Low
+NLP Engineer,Razorpay,Chennai,Entry,"Statistics, R, PyTorch",3,19,0,Mid
+Research Scientist,Wipro,Hyderabad,Entry,"Statistics, Tableau, Git",3,17,0,Mid
+ML Engineer,TCS,Hyderabad,Lead,"R, MLflow, Excel, Spark, dbt, PostgreSQL, GCP",7,70,0,High
+Data Analyst,Swiggy,Chennai,Senior,"Hadoop, Python, Excel, Flask, Java, FastAPI, MongoDB",7,22,0,Mid
+AI Engineer,Flipkart,Bangalore,Senior,"Python, dbt, PostgreSQL",3,41,0,High
+Data Scientist,Swiggy,Remote,Senior,"Power BI, GCP, MLflow, FastAPI, R",5,28,1,High
+Data Analyst,Paytm,Mumbai,Senior,"NLP, Git, Hadoop",3,20,0,Mid
+Data Engineer,Razorpay,Delhi,Mid,"Power BI, TensorFlow, Git, Scala",4,28,0,High
+Data Analyst,Infosys,Chennai,Mid,"TensorFlow, Hadoop, MongoDB, MLflow, SQL",5,11,0,Mid
+Data Analyst,Wipro,Bangalore,Senior,"Kubernetes, Deep Learning, Computer Vision, Scala",4,38,0,High
+Data Analyst,Google,Mumbai,Mid,"Airflow, Kubernetes, Excel, GCP, TensorFlow",5,24,0,Mid
+Data Analyst,Flipkart,Delhi,Mid,"Flask, FastAPI, Scala, GCP, Docker, NLP, Power BI",7,17,0,Mid
+Data Scientist,Google,Noida,Entry,"AWS, MLflow, Power BI, Airflow, Scala, Kubernetes, GCP",7,13,0,Mid
+NLP Engineer,BYJU'S,Gurgaon,Mid,"GCP, Azure, Flask",3,19,0,Mid
+Research Scientist,Swiggy,Pune,Mid,"Deep Learning, Tableau, TensorFlow, MLflow, Computer Vision, Airflow, Docker",7,20,0,Mid
+Business Analyst,Swiggy,Gurgaon,Mid,"Git, Statistics, TensorFlow, Power BI, Machine Learning, AWS",6,19,0,Mid
