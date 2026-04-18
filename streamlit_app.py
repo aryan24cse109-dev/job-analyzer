@@ -108,7 +108,7 @@ if page == "Salary Predictor":
         all_skill_options = top_skills + ['Spark','Hadoop','R','Scala','Excel','Airflow','MongoDB']
         selected_skills = st.multiselect(
     "Skills",
-    options=list(skills_dict.keys()),
+    options=["Python", "Machine Learning", "Data Analysis", "SQL"],
     label_visibility="collapsed"
 )
         st.markdown("")
