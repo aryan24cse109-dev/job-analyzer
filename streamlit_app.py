@@ -107,11 +107,10 @@ if page == "Salary Predictor":
         st.markdown("**Skills** *(select all that apply)*")
         all_skill_options = top_skills + ['Spark','Hadoop','R','Scala','Excel','Airflow','MongoDB']
         selected_skills = st.multiselect(
-            "Skills",
-            options=sorted(set(all_skill_options)),
-            default=['Python', 'SQL', 'Machine Learning'],
-            label_visibility="collapsed"
-        )
+    "Skills",
+    options=list(skills_dict.keys()),
+    label_visibility="collapsed"
+)
         st.markdown("")
         predict_btn = st.button("Predict Salary Tier", type="primary", use_container_width=True)
 
