@@ -4,10 +4,10 @@
 
 # 📊 Job Market Analyzer
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://job-analyzer-aryan24cse109-dev.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://job-analyzer-appqwwnvxntgsftmmky4584.streamlit.app/)
 [![FastAPI](https://img.shields.io/badge/API-FastAPI-green)](https://job-analyzer-production.up.railway.app)
 
-> **Live Demo:** [Click here to view the Dashboard](https://job-analyzer-aryan24cse109-dev.streamlit.app)
+> **Live Demo:** [Click here to view the Dashboard](https://job-analyzer-appqwwnvxntgsftmmky4584.streamlit.app/)
 
 ---
 
