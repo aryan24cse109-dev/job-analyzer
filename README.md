@@ -2,21 +2,20 @@
 
 > End-to-end ML pipeline: data → feature engineering → TF-IDF + SVD → Random Forest → FastAPI → Streamlit dashboard
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![sklearn](https://img.shields.io/badge/scikit--learn-1.3%2B-orange)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.104%2B-green)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
+# 📊 Job Market Analyzer
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://job-analyzer-aryan24cse109-dev.streamlit.app)
+[![FastAPI](https://img.shields.io/badge/API-FastAPI-green)](https://job-analyzer-production.up.railway.app)
+
+> **Live Demo:** [Click here to view the Dashboard](https://job-analyzer-aryan24cse109-dev.streamlit.app)
 
 ---
 
-## What This Project Does
+### 🚀 Overview
+India Data Science Job Market analyzer using Random Forest, TF-IDF, and SVD. Deployed with a FastAPI backend on Railway and an interactive Streamlit frontend.
 
-Analyzes 500+ data science job listings across 9 Indian cities and predicts whether a candidate's profile falls in a **Low / Mid / High** salary tier using machine learning. Built as a full research-grade pipeline with a REST API and an interactive dashboard.
-
-**Live Demo** → [your-app-name.streamlit.app](https://your-app-name.streamlit.app)  
-**API Docs** → [your-api.railway.app/docs](https://your-api.railway.app/docs)
-
+- **Frontend:** [https://job-analyzer-aryan24cse109-dev.streamlit.app](https://job-analyzer-aryan24cse109-dev.streamlit.app)
+- **API Endpoint:** [https://job-analyzer-production.up.railway.app](https://job-analyzer-production.up.railway.app)
 ---
 
 ## Project Structure
